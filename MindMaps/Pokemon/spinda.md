@@ -1,0 +1,2845 @@
+## spinda
+### Species: spinda
+### Stats
+#### Name: hp
+#### Base Stat: 60
+#### Effort: 0
+#### Name: attack
+#### Base Stat: 60
+#### Effort: 0
+#### Name: defense
+#### Base Stat: 60
+#### Effort: 0
+#### Name: special-attack
+#### Base Stat: 60
+#### Effort: 1
+#### Name: special-defense
+#### Base Stat: 60
+#### Effort: 0
+#### Name: speed
+#### Base Stat: 60
+#### Effort: 0
+### Types
+#### normal
+##### Slot: 1
+### Abilities
+#### own-tempo
+##### Slot: 1
+##### Hidden: False
+#### tangled-feet
+##### Slot: 2
+##### Hidden: False
+#### contrary
+##### Slot: 3
+##### Hidden: True
+### Base Experience: 126
+### Height: 11
+### Weight: 50
+### Is Default: True
+### Forms
+#### spinda
+### Game Appearances
+### Moves
+#### mega-punch
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+#### fire-punch
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### ice-punch
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### thunder-punch
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### mega-kick
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+#### headbutt
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+#### tackle
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 1
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### body-slam
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: xd
+#### thrash
+##### Learned At Level: 56
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 56
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 56
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 55
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 55
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 55
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 55
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 56
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 56
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 55
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 50
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 55
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 55
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 55
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### double-edge
+##### Learned At Level: 45
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 45
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 45
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+##### Learned At Level: 46
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 46
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 46
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 46
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 45
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 45
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: xd
+##### Learned At Level: 46
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 46
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 46
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 46
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 46
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### disable
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### psybeam
+##### Learned At Level: 16
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 16
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 16
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 19
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 19
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 19
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 19
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 16
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 16
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 19
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 19
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 14
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 14
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 14
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### low-kick
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### counter
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+#### seismic-toss
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: xd
+#### strength
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+#### dig
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+#### toxic
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### psychic
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### hypnosis
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 19
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 19
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 19
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### mimic
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: xd
+#### double-team
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### defense-curl
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+#### metronome
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+#### swift
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+#### dream-eater
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### dizzy-punch
+##### Learned At Level: 27
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 27
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 27
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 28
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 28
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 28
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 28
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 27
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 27
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 28
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 28
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 23
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### flash
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+#### rest
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### rock-slide
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### substitute
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### thief
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### nightmare
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: xd
+#### snore
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### flail
+##### Learned At Level: 49
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 49
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 49
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 50
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 50
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 50
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 50
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 49
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 49
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 50
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 50
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 50
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 50
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 50
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### protect
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### feint-attack
+##### Learned At Level: 12
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 12
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 12
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 14
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 14
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 14
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 14
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 12
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 12
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 14
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 14
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 10
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 10
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 10
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### mud-slap
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+#### icy-wind
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### endure
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+#### rollout
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+#### swagger
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### attract
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### sleep-talk
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### return
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### frustration
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### safeguard
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### dynamic-punch
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+#### baton-pass
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### encore
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### rapid-spin
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### hidden-power
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### rain-dance
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### sunny-day
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### psych-up
+##### Learned At Level: 38
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 38
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: emerald
+##### Learned At Level: 38
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 41
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 41
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 41
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 41
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 38
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 38
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 41
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 41
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 41
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 41
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 41
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### shadow-ball
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### rock-smash
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+#### fake-out
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### uproar
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 37
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 37
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 37
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### facade
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### focus-punch
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### smelling-salts
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### helping-hand
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### trick
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### role-play
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### wish
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### assist
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### recycle
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### brick-break
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### skill-swap
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### snatch
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### secret-power
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+#### teeter-dance
+##### Learned At Level: 34
+##### Learned Method: level-up
+##### Version Group: ruby-sapphire
+##### Learned At Level: 34
+##### Learned Method: level-up
+##### Version Group: emerald
+##### Learned At Level: 34
+##### Learned Method: level-up
+##### Version Group: firered-leafgreen
+##### Learned At Level: 37
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 37
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 37
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 37
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 34
+##### Learned Method: level-up
+##### Version Group: colosseum
+##### Learned At Level: 34
+##### Learned Method: level-up
+##### Version Group: xd
+##### Learned At Level: 37
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 37
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 32
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 32
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 32
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### hyper-voice
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### fake-tears
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### rock-tomb
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### covet
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### calm-mind
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### shock-wave
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### water-pulse
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ruby-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: emerald
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: firered-leafgreen
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: colosseum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: xd
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### natural-gift
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+#### fling
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### psycho-shift
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### copycat
+##### Learned At Level: 10
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 10
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 10
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 10
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 10
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 10
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 5
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### last-resort
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### sucker-punch
+##### Learned At Level: 32
+##### Learned Method: level-up
+##### Version Group: diamond-pearl
+##### Learned At Level: 32
+##### Learned Method: level-up
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 32
+##### Learned Method: level-up
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 32
+##### Learned Method: level-up
+##### Version Group: black-white
+##### Learned At Level: 32
+##### Learned Method: level-up
+##### Version Group: black-2-white-2
+##### Learned At Level: 32
+##### Learned Method: level-up
+##### Version Group: x-y
+##### Learned At Level: 28
+##### Learned Method: level-up
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 28
+##### Learned Method: level-up
+##### Version Group: sun-moon
+##### Learned At Level: 28
+##### Learned Method: level-up
+##### Version Group: ultra-sun-ultra-moon
+#### drain-punch
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### psycho-cut
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### zen-headbutt
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: tutor
+##### Version Group: omega-ruby-alpha-sapphire
+#### trick-room
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### captivate
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: diamond-pearl
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: platinum
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: heartgold-soulsilver
+#### guard-split
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+#### round
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### retaliate
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+#### work-up
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### wild-charge
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-white
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: black-2-white-2
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### confide
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: ultra-sun-ultra-moon
+#### power-up-punch
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: x-y
+##### Learned At Level: 0
+##### Learned Method: machine
+##### Version Group: omega-ruby-alpha-sapphire
+#### spotlight
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: sun-moon
+##### Learned At Level: 0
+##### Learned Method: egg
+##### Version Group: ultra-sun-ultra-moon
+### Images
+#### [Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png)
+#### [Front Male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png)
+#### [Back Male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/327.png)
+#### [Front Female](None)
+#### [Back Female](None)
+#### [Shiny Front Male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/327.png)
+#### [Shiny Back Male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/327.png)
+#### [Shiny Front Female](None)
+#### [Shiny Back Female](None)
+#### [Dream World Male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/327.svg)
+#### [Dream World Female](None)
+#### [Home Male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/327.png)
+#### [Home Female](None)
+#### [Home Front Shiny Male](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/327.png)
+#### [Home Front Shiny Female](None)

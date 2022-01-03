@@ -1,0 +1,59 @@
+# {{ singlePokemon.name }}
+## Species: {{ singlePokemon.species.name }}
+## Stats
+{%- for stat in singlePokemon.stats %}
+### Name: {{ stat.stat.name }}
+### Base Stat: {{ stat.base_stat }}
+### Effort: {{ stat.effort }}
+{%- endfor %}
+## Types
+{%- for type in singlePokemon.types %}
+### {{ type.type.name }}
+#### Slot: {{ type.slot }}
+{%- endfor %}
+## Abilities
+{%- for ability in singlePokemon.abilities %}
+### {{ ability.ability.name }}
+#### Slot: {{ ability.slot }}
+#### Hidden: {{ ability.is_hidden }}
+{%- endfor %}
+## Base Experience: {{ singlePokemon.base_experience }}
+## Height: {{ singlePokemon.height }}
+## Weight: {{ singlePokemon.weight }}
+## Is Default: {{ singlePokemon.is_default }}
+## Forms 
+{%- for form in singlePokemon.forms %}
+### {{ form.name }}
+{%- endfor %}
+## Game Appearances
+{%- for game in singlePokemon.game_indicies %}
+### {{ game.version.name }}
+#### Game Index: {{ game.game_index }}s
+{%- endfor %}
+## Moves
+{%- for move in singlePokemon.moves %}
+### {{ move.move.name }}
+{%-     for detail in move.version_group_details %}
+#### Learned At Level: {{ detail.level_learned_at }}
+#### Learned Method: {{ detail.move_learn_method.name }}
+#### Version Group: {{ detail.version_group.name }}
+{%-     endfor %}
+{%- endfor %}
+## Images
+{%- for sprite in singlePokemon.sprites %}
+### Official Artwork: {{ sprite['other']['official-artwork']['front_default'] }}
+### Front Male: {{ sprite.front_default }}
+### Back Male: {{ sprite.back_default }}
+### Front Female: {{ sprite.front_female }}
+### Back Female: {{ sprite.back_female }}
+### Shiny Front Male: {{ sprite.front_shiny }}
+### Shiny Back Male: {{ sprite.back_default }}
+### Shiny Front Female: {{ sprite.front_shiny_female }}
+### Shiny Back Female: {{ sprite.back_shiny_female }}
+### Dream World Male: {{ sprite.other.dream_world.front_default }}
+### Dream World Female: {{ sprite.other.dream_world.front_female }}
+### Home Male: {{ sprite.other.home.front_default }}
+### Home Female: {{ sprite.other.home.front_female }}
+### Home Front Shiny Male: {{ sprite.other.home.front_shiny }}
+### Home Front Shiny Female: {{ sprite.other.home.front_shiny_female }}
+{%- endfor %}
